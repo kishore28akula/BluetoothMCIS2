@@ -56,6 +56,8 @@ public class MainActivity extends AppCompatActivity {
 
     private  String getDeviceName=null;
 
+    String kishore;
+
 
     private Handler handler = new Handler(new Callback() {
 
